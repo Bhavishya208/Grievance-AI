@@ -17,21 +17,21 @@ GrievanceAI is an AI-powered platform designed to streamline the process of lodg
 
 ## 🚀 **Key Features**
 
-## 🤖 **AI-Driven Complaint Categorization**: Automatically classifies complaints into predefined categories such as sanitation, infrastructure, and public safety.
+🤖 **AI-Driven Complaint Categorization**: Automatically classifies complaints into predefined categories such as sanitation, infrastructure, and public safety.
 
-## 🗣️ **Sentiment Analysis**: Assesses the urgency and severity of complaints based on user sentiment.
+🗣️ **Sentiment Analysis**: Assesses the urgency and severity of complaints based on user sentiment.
 
-## 💬 **Interactive Chatbot*": Guides users through the complaint submission process and provides real-time assistance.
+💬 **Interactive Chatbot*": Guides users through the complaint submission process and provides real-time assistance.
 
-## 📊 **Admin Dashboard**: Offers municipal officers a comprehensive view of complaints, enabling efficient resolution tracking.
+📊 **Admin Dashboard**: Offers municipal officers a comprehensive view of complaints, enabling efficient resolution tracking.
 
-## 📱 **Cross-Platform Accessibility**: Accessible via web and mobile applications for user convenience.
+📱 **Cross-Platform Accessibility**: Accessible via web and mobile applications for user convenience.
 
 
 
 ---
 
-## 🏗️ **Project Structure*
+## 🏗️ **Project Structure**
 
 grievance-ai/
 ├── backend/
