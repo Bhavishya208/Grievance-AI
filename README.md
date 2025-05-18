@@ -163,7 +163,7 @@ python app.py
 **Frontend Web Setup**
 
 cd frontend/web
-# Open index.html in your preferred browser
+#Open index.html in your preferred browser
 
 Mobile App Setup
 
