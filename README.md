@@ -1,21 +1,21 @@
 
 ---
 
-###🧾 GrievanceAI: Smart Municipal Complaint Management System
+##🧾 GrievanceAI: Smart Municipal Complaint Management System ##
 
 
 
 
 ---
 
-###📌 Overview
+##📌 Overview ##
 
 GrievanceAI is an AI-powered platform designed to streamline the process of lodging and managing municipal complaints. By leveraging Natural Language Processing (NLP) and sentiment analysis, it ensures efficient categorization and prioritization of grievances, enhancing civic engagement and administrative responsiveness.
 
 
 ---
 
-###🚀 Key Features
+##🚀 Key Features ##
 
 🤖 AI-Driven Complaint Categorization: Automatically classifies complaints into predefined categories such as sanitation, infrastructure, and public safety.
 
