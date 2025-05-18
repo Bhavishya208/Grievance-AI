@@ -1,21 +1,21 @@
 
 ---
 
-🧾 GrievanceAI: Smart Municipal Complaint Management System
+###🧾 GrievanceAI: Smart Municipal Complaint Management System
 
 
 
 
 ---
 
-📌 Overview
+###📌 Overview
 
 GrievanceAI is an AI-powered platform designed to streamline the process of lodging and managing municipal complaints. By leveraging Natural Language Processing (NLP) and sentiment analysis, it ensures efficient categorization and prioritization of grievances, enhancing civic engagement and administrative responsiveness.
 
 
 ---
 
-🚀 Key Features
+###🚀 Key Features
 
 🤖 AI-Driven Complaint Categorization: Automatically classifies complaints into predefined categories such as sanitation, infrastructure, and public safety.
 
@@ -31,7 +31,7 @@ GrievanceAI is an AI-powered platform designed to streamline the process of lodg
 
 ---
 
-🏗️ Project Structure
+###🏗️ Project Structure
 
 grievance-ai/
 ├── backend/
@@ -73,7 +73,7 @@ grievance-ai/
 
 ---
 
-🧠 AI Components
+###🧠 AI Components
 
 1. Complaint Categorization (NLP)
 
@@ -90,9 +90,9 @@ An AI-powered chatbot assists users in lodging complaints and provides informati
 
 ---
 
-🖥️ Frontend Interfaces
+###🖥️ Frontend Interfaces
 
-🌐 Web Application
+###🌐 Web Application
 
 Technologies: HTML, CSS, JavaScript
 
@@ -106,7 +106,7 @@ Responsive design for various devices
 
 
 
-📱 Mobile Application
+###📱 Mobile Application
 
 Framework: Flutter
 
@@ -123,7 +123,7 @@ User profile management
 
 ---
 
-🛠️ Backend Services
+###🛠️ Backend Services
 
 Framework: Flask
 
@@ -142,7 +142,7 @@ APIs:
 
 ---
 
-📦 Installation & Setup
+###📦 Installation & Setup
 
 Prerequisites
 
@@ -175,7 +175,7 @@ flutter run
 
 ---
 
-🧪 Testing
+###🧪 Testing
 
 Backend Tests
 
@@ -186,14 +186,14 @@ python test_models.py
 
 ---
 
-🤝 Contributing
+###🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 
 ---
 
-📬 Contact
+###📬 Contact
 
 For any inquiries or support, please contact bhavishyakaushik3288@gmail.com
 
