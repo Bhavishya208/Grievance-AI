@@ -173,7 +173,7 @@ flutter run
 
 ---
 
-## 🧪 **Testin**
+## 🧪 **Testing**
 
 Backend Tests
 
