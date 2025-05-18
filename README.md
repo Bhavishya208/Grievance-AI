@@ -32,7 +32,7 @@ GrievanceAI is an AI-powered platform designed to streamline the process of lodg
 ---
 
 ## 🏗️ **Project Structure**
-
+'''
 grievance-ai/
 ├── backend/
 │   ├── app.py
@@ -69,7 +69,7 @@ grievance-ai/
 ├── LICENSE
 ├── README.md
 └── .gitignore
-
+'''
 
 ---
 
