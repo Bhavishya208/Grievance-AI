@@ -21,7 +21,7 @@ GrievanceAI is an AI-powered platform designed to streamline the process of lodg
 
 🗣️ **Sentiment Analysis**: Assesses the urgency and severity of complaints based on user sentiment.
 
-💬 **Interactive Chatbot*": Guides users through the complaint submission process and provides real-time assistance.
+💬 **Interactive Chatbot**: Guides users through the complaint submission process and provides real-time assistance.
 
 📊 **Admin Dashboard**: Offers municipal officers a comprehensive view of complaints, enabling efficient resolution tracking.
 
@@ -144,34 +144,37 @@ User profile management
 
 ## 📦 **Installation & Setup**
 
-Prerequisites
+**Prerequisites**
 
+'''
 Python 3.x
 
 Flutter SDK
 
 Node.js and npm (for frontend dependencies)
+```
 
+**Backend Setup**
 
-Backend Setup
-
+```
 cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-
-Frontend Web Setup
+```
+**Frontend Web Setup**
 
 cd frontend/web
 # Open index.html in your preferred browser
 
 Mobile App Setup
 
+```
 cd frontend/mobile
 flutter pub get
 flutter run
-
+```
 
 ---
 
@@ -179,10 +182,11 @@ flutter run
 
 Backend Tests
 
+```
 cd tests
 python test_app.py
 python test_models.py
-
+```
 
 ---
 
