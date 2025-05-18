@@ -1,37 +1,37 @@
 
 ---
 
-##🧾 GrievanceAI: Smart Municipal Complaint Management System ##
+# 🧾 **GrievanceAI**: Smart Municipal Complaint Management System
 
 
 
 
 ---
 
-##📌 Overview ##
+## 📌 **Overview**
 
 GrievanceAI is an AI-powered platform designed to streamline the process of lodging and managing municipal complaints. By leveraging Natural Language Processing (NLP) and sentiment analysis, it ensures efficient categorization and prioritization of grievances, enhancing civic engagement and administrative responsiveness.
 
 
 ---
 
-##🚀 Key Features ##
+## 🚀 **Key Features**
 
-🤖 AI-Driven Complaint Categorization: Automatically classifies complaints into predefined categories such as sanitation, infrastructure, and public safety.
+## 🤖 **AI-Driven Complaint Categorization**: Automatically classifies complaints into predefined categories such as sanitation, infrastructure, and public safety.
 
-🗣️ Sentiment Analysis: Assesses the urgency and severity of complaints based on user sentiment.
+## 🗣️ **Sentiment Analysis**: Assesses the urgency and severity of complaints based on user sentiment.
 
-💬 Interactive Chatbot: Guides users through the complaint submission process and provides real-time assistance.
+## 💬 **Interactive Chatbot*": Guides users through the complaint submission process and provides real-time assistance.
 
-📊 Admin Dashboard: Offers municipal officers a comprehensive view of complaints, enabling efficient resolution tracking.
+## 📊 **Admin Dashboard**: Offers municipal officers a comprehensive view of complaints, enabling efficient resolution tracking.
 
-📱 Cross-Platform Accessibility: Accessible via web and mobile applications for user convenience.
+## 📱 **Cross-Platform Accessibility**: Accessible via web and mobile applications for user convenience.
 
 
 
 ---
 
-###🏗️ Project Structure
+## 🏗️ **Project Structure*
 
 grievance-ai/
 ├── backend/
@@ -73,30 +73,30 @@ grievance-ai/
 
 ---
 
-###🧠 AI Components
+## 🧠 **AI Components**
 
-1. Complaint Categorization (NLP)
+1. **Complaint Categorization (NLP)**
 
 Utilizes NLP techniques to automatically classify complaints into relevant categories, facilitating targeted responses.
 
-2. Sentiment Analysis
+2. **Sentiment Analysis**
 
 Analyzes the sentiment of complaint descriptions to determine urgency levels, aiding in prioritization.
 
-3. Interactive Chatbot
+3. **Interactive Chatbot**
 
 An AI-powered chatbot assists users in lodging complaints and provides information on existing grievances.
 
 
 ---
 
-###🖥️ Frontend Interfaces
+## 🖥️ **Frontend Interfaces**
 
-###🌐 Web Application
+## 🌐 **Web Application**
 
-Technologies: HTML, CSS, JavaScript
+**Technologies**: HTML, CSS, JavaScript
 
-Features:
+**Features:**
 
 User-friendly complaint submission form
 
@@ -106,11 +106,11 @@ Responsive design for various devices
 
 
 
-###📱 Mobile Application
+## 📱 **Mobile Application**
 
-Framework: Flutter
+**Framework**: Flutter
 
-Features:
+**Features**:
 
 Seamless complaint registration
 
@@ -123,26 +123,26 @@ User profile management
 
 ---
 
-###🛠️ Backend Services
+## 🛠️ **Backend Services**
 
-Framework: Flask
+**Framework**: Flask
 
-Database: SQLite
+**Database**: SQLite
 
-APIs:
+**APIs**:
 
-/register: User registration
+**/register**: User registration
 
-/complaints: Complaint submission and retrieval
+**/complaints**: Complaint submission and retrieval
 
-/status: Check complaint status
+**/status**: Check complaint status
 
 
 
 
 ---
 
-###📦 Installation & Setup
+## 📦 **Installation & Setup**
 
 Prerequisites
 
@@ -175,7 +175,7 @@ flutter run
 
 ---
 
-###🧪 Testing
+## 🧪 **Testin**
 
 Backend Tests
 
@@ -186,14 +186,14 @@ python test_models.py
 
 ---
 
-###🤝 Contributing
+## 🤝 **Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 
 ---
 
-###📬 Contact
+## 📬 **Contact**
 
 For any inquiries or support, please contact bhavishyakaushik3288@gmail.com
 
