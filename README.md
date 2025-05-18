@@ -146,23 +146,20 @@ User profile management
 
 **Prerequisites**
 
-'''
 Python 3.x
 
 Flutter SDK
 
 Node.js and npm (for frontend dependencies)
-```
 
 **Backend Setup**
 
-```
 cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-```
+
 **Frontend Web Setup**
 
 cd frontend/web
@@ -170,11 +167,9 @@ cd frontend/web
 
 Mobile App Setup
 
-```
 cd frontend/mobile
 flutter pub get
 flutter run
-```
 
 ---
 
@@ -182,11 +177,9 @@ flutter run
 
 Backend Tests
 
-```
 cd tests
 python test_app.py
 python test_models.py
-```
 
 ---
 
