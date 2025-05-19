@@ -1,0 +1,36 @@
+grievance-ai/
+├── backend/
+│   ├── app.py
+│   ├── models.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── complaint_routes.py
+│   │   └── user_routes.py
+│   ├── ai_utils.py
+│   ├── chatbot/
+│   │   ├── chatbot.py
+│   │   └── intents.json
+│   ├── admin_panel.py
+│   ├── config.py
+│   ├── requirements.txt
+│   └── .gitignore
+├── frontend/
+│   ├── web/
+│   │   ├── index.html
+│   │   ├── styles.css
+│   │   └── scripts.js
+│   └── mobile/
+│       ├── lib/
+│       │   ├── main.dart
+│       │   └── screens/
+│       │       └── home_screen.dart
+│       └── pubspec.yaml
+├── database/
+│   ├── schema.sql
+│   └── sample_data.sql
+├── tests/
+│   ├── test_app.py
+│   └── test_models.py
+├── LICENSE
+├── README.md
+└── .gitignore
