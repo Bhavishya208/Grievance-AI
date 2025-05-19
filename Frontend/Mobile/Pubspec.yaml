@@ -1,0 +1,7 @@
+name: grievance_ai
+description: A Flutter project for GrievanceAI
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
