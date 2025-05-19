@@ -89,6 +89,14 @@ An AI-powered chatbot assists users in lodging complaints and provides informati
 
 ---
 
+
+## 📊 **AI-Powered Complaint Dashboard with Heatmap & Status Tracker**
+
+![Image](https://github.com/user-attachments/assets/dba57864-5f9d-414b-8b96-d51c128a0f5a)
+
+
+---
+
 ## 🖥️ **Frontend Interfaces**
 
 ## 🌐 **Web Application**
