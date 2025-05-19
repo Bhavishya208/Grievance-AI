@@ -97,6 +97,14 @@ An AI-powered chatbot assists users in lodging complaints and provides informati
 
 ---
 
+## 🖼️ **GrievanceAI Preview: Complaint Form, Chatbot, and Status Dashboard**
+
+![Image](https://github.com/user-attachments/assets/59ad405e-c42e-4e07-8251-772ef92317ad)
+
+
+---
+
+
 ## 🖥️ **Frontend Interfaces**
 
 ## 🌐 **Web Application**
